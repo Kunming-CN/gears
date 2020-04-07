@@ -22,4 +22,4 @@
 /tracking/verbose 2
 /event/verbose 2
 /analysis/setFileName output
-/run/beamOn 1
+/run/beamOn 5

@@ -18,7 +18,7 @@
 /process/list Optical
 
 # generate primary particle with tiny energy
-/gps/particle gamma
+/gps/particle gammar
 /gps/energy 6 keV
 /gps/ang/type iso
 
